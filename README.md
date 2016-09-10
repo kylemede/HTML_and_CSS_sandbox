@@ -4,3 +4,5 @@ A sandbox to host some of the key HTML and CSS tricks I have used to build anoth
 These include:
 - A hotizontally centered and evenly spaced list of links.
 - A marquee made with pure HTML and CSS3 with images and text.
+
+More to come, just all I had time to generalize so far.
