@@ -218,3 +218,18 @@ a:active {text-decoration: none;}
 .char-ex-26 {transform: rotate(252deg);}
 .char-ex-27 {transform: rotate(260deg);}
 .char-ex-28 {transform: rotate(270deg);}
+
+
+/*========= styling for vertically centered text brick ========*/
+.parent {
+  display:table;
+  width:100%;
+  height:100px;
+  text-align: center;
+  border:2px solid blue;
+}
+.child {
+  display:table-cell;
+  vertical-align: middle;
+  border:2px dashed green;
+}
